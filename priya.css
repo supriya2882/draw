@@ -1,0 +1,45 @@
+body{
+  font-family: 'Pacifico', cursive;
+}
+h1
+{
+  text-align: center;
+  text-decoration: underline;
+  color: yellow;
+  margin-bottom: 150px;
+}
+div#a{
+  transform: rotate(90deg);
+  margin: auto;
+  display: inline-block;
+  margin-bottom: 100px;
+
+}
+div#b{
+  transform: rotate(90deg);
+  margin: auto;
+  display: inline-block;
+  margin-bottom: 100px;
+}
+div#c{
+  transform: rotate(90deg);
+  display: inline-block;
+  margin: auto;
+  height: auto;
+
+}
+div#d{
+  transform: rotate(90deg);
+  display: inline-block;
+}
+div#e{
+  margin: auto;
+  height: 100%;
+  display: inline-block;
+}
+div#f{
+  transform: rotate(90deg);
+  margin: auto;
+  display: inline-block;
+  margin-bottom: 100px;
+}
